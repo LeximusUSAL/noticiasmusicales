@@ -10,12 +10,7 @@ LexiMus analiza sistemicamente el discurso musical histórico en periódicos esp
 
 ## Corpus Digitalizado
 
-El proyecto trabaja con archivos digitalizados de la Biblioteca Nacional de España (BNE):
-
-1. **Diario de Madrid** (1788-1823) - Primer periódico diario de la capital
-2. **El Debate** (1881-1883) - Periódico político y cultural
-3. **España** (1915-1924) - Revista cultural e intelectual 
-4. **El Sol** (1918-1932) - Diario liberal de gran influencia
+El proyecto trabaja con archivos digitalizados de la Biblioteca Nacional de España (BNE) y disponibles en su hemeroteca digital.
 
 ## Características Técnicas
 
@@ -54,10 +49,12 @@ Código del proyecto: **PID2022-139589NB-C33**
 
 ## Financiación
 
-Proyecto de investigación académica con colaboración multi-institucional, enfocado en humanidades digitales y lingüística musical.
+Proyecto de generación del conocimiento PID2022-139589NB-C33, con colaboración multi-institucional, enfocado en humanidades digitales y lingüística musical. Este proyecto forma parte de una iniciativa más amplia de investigación en **humanidades digitales**, aplicando tecnologías modernas al estudio del patrimonio cultural y musical español histórico. Es un proyecto coordinado desde el Instituto Complutense de Ciencias Musicales, en colaboración con la Universidad de La Rioja.
+
 
 ## Tecnologías Utilizadas
 
+- **Claude Code** - Automatización de tareas y desarrollo de códigos.
 - **HTML5, CSS3, JavaScript** - Desarrollo web moderno
 - **Intersection Observer API** - Animaciones optimizadas
 - **Diseño responsivo** - Adaptabilidad multi-dispositivo
@@ -67,10 +64,6 @@ Proyecto de investigación académica con colaboración multi-institucional, enf
 ## Acceso
 
 La plataforma está disponible en: **https://leximususal.github.io/noticiasmusicales/**
-
-## Contexto Académico
-
-Este proyecto forma parte de una iniciativa más amplia de investigación en **humanidades digitales**, aplicando tecnologías modernas al estudio del patrimonio cultural y musical español histórico.
 
 ## Contacto
 
@@ -84,10 +77,9 @@ Para consultas académicas o colaboraciones:
 
 Si utilizas este trabajo en tu investigación, por favor cita:
 
-```
-Análisis Musical Computacional de prensa histórica. 
+```Busqueda de noticias musicales. 
 Proyecto LexiMus: Léxico y ontología de la música en español (PID2022-139589NB-C33), Universidad de Salamanca. 
-Disponible en: https://LeximusUSAL.github.io/principal
+Disponible en: https://LeximusUSAL.github.io/noticiasmusicales/
 ```
 
 ---
